@@ -103,5 +103,14 @@ QtObject {
             baseScaling: 3.5
             fontWidth: 0.8
         }
+        ListElement {
+            name: "VT220"
+            text: "VT220 (1983)"
+            source: "fonts/1983-vt220/Glass_TTY_VT220.ttf"
+            lineSpacing: 3
+            pixelSize: 20
+            baseScaling: 3.5
+            fontWidth: 1.0
+        }
     }
 }
